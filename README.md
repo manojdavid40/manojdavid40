@@ -3,7 +3,7 @@
   ## :book: About Me
 
 - 🌟 **30 Years of Advisory Experience:** I've worked with Fortune 500 companies, startups, and everything in between. My expertise lies in understanding complex business challenges and finding innovative solutions.
-  - 🚀 **Coding Journey:** After years of spreadsheets and boardrooms, I'm thrilled to be back in the coding game. Python has always been my first love, and now I'm exploring the exciting world of Machine Learning and Deep Learning.
+- 🚀 **Coding Journey:** After years of spreadsheets and boardrooms, I'm thrilled to be back in the coding game. Now I'm exploring the exciting world of Machine Learning and Deep Learning.
 
 - 📊 **Data Enthusiast:** I believe data holds the key to unlocking business insights. Whether it's predicting stock market trends or optimizing supply chains, I'm passionate about turning raw data into actionable intelligence.
 
